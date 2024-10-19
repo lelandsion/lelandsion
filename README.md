@@ -2,7 +2,7 @@
 
 🎓 **Computer Science student co-op**
 
-I'm Computer Science co-op student at the University of Victoria, I'm hardworking, diligent, and I love learning and working in teams. I'm interested in creating Currently interested in software development, video game development and artificial intelligence. 
+I'm Computer Science co-op student at the University of Victoria, I'm hardworking, diligent, and I love learning and working in teams. I'm interested in creating innovative solutions to problems across disciplines.  Currently interested in software development, video game development and artificial intelligence. 
 
 🌱 **Technology for Sustainability**:
 
