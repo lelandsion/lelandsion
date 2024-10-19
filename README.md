@@ -1,6 +1,6 @@
 ## Hi there, I'm Leland 👋
 
-🎓 **Computer Science student co-op**
+🎓 **Computer Science co-op student **
 
 I'm Computer Science co-op student at the University of Victoria, I'm hardworking, diligent, and I love learning and working in teams. I'm interested in creating innovative solutions to problems across disciplines.  Currently interested in software development, video game development and artificial intelligence. 
 
