@@ -12,25 +12,9 @@ As a Computer Science student, I’m passionate about leveraging technology to d
 
 I’m passionate about video game development, where creativity meets technical challenges. With an artistic background, I enjoy combining my creative vision with programming to build immersive gameplay experiences. From designing complex systems to bringing imaginative worlds to life, I thrive on creating interactive and engaging games that push the boundaries of creativity. Check out some of my projects here to see my work in action!
 
-🏆 **Notable Projects**:
-- **WasteWise** (1st Place, TECHNATION AI for Sustainability Student Challenge)  
-  Full-stack AI-powered application using Python, Flask, and React to automate waste classification through image detection.
-
-- **Connect** (1st Place, 100-Hour Net-Zero Challenge)  
-  IoT-powered application that gathers data from sensors in buildings for energy analysis and savings using Flutter, TensorFlow, and cloud integration.
-
-- **Easy Grocery**  
-  Full-stack e-commerce app that integrates APIs to track grocery prices across Canada, allowing users to create personalized shopping lists.
-
-🔧 **Ongoing Interests**:
-- Quantum computing applications
-- AI-powered data solutions
-- Software scalability and optimization
-- Video game development
-
  📫 **Let's Connect!**:
-- [LinkedIn](https://www.linkedin.com/in/lelandsion)
-- [email](leland.sion@gmail.com)
+- [https://www.linkedin.com/in/lelandsion](https://www.linkedin.com/in/lelandsion)
+- [leland.sion@gmail.com](leland.sion@gmail.com)
 
 
 <!--
