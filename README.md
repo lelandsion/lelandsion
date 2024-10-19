@@ -1,4 +1,4 @@
-## Hi there I'm Leland 👋
+## Hi there, I'm Leland 👋
 
 🎓 **Computer Science student co-op**
 
