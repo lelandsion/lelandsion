@@ -16,7 +16,7 @@ I’m passionate about video game development, where creativity meets technical 
 - [https://www.linkedin.com/in/lelandsion](https://www.linkedin.com/in/lelandsion)
 - [leland.sion@gmail.com](leland.sion@gmail.com)
 
-
+Thanks for stopping by! 🚀
 <!--
 **lelandsion/lelandsion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
