@@ -6,7 +6,7 @@ I'm Computer Science co-op student at the University of Victoria, I'm hardworkin
 
 🌱 **Tech for Sustainability**
 
-As a Computer Science student, I’m passionate about leveraging technology to drive sustainable solutions. I believe that data analytics, software development, and IoT systems can play a pivotal role in optimizing energy use and reducing environmental impact. My goal is to develop innovative applications that promote sustainability, whether it’s through smart building systems, energy-efficient algorithms, or other tech-driven initiatives that create a positive environmental footprint.
+As a Computer Science student, I’m passionate about leveraging technology to drive sustainable solutions. I believe that data analytics, software development, and IoT systems can play a pivotal role in optimizing energy use and reducing environmental impact. I am interested in applications that promote sustainability, whether it’s through smart building systems, energy-efficient algorithms, or other tech-driven initiatives that create a positive environmental footprint.
 
 🎮 **Passion Projects**
 
