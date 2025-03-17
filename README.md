@@ -14,7 +14,7 @@ I’m passionate about video game development, where creativity meets technical 
 
 **Let's Connect!**
 - [https://www.linkedin.com/in/lelandsion](https://www.linkedin.com/in/lelandsion)
-- [leland.sion@gmail.com](leland.sion@gmail.com)
+- [lelandsion@gmail.com](leland.sion@gmail.com)
 
 Thanks for stopping by! 🚀
 <!--
